@@ -2,6 +2,18 @@
 
 A simple guide, tips and resources to help you create a (Drupal 9.x) e-commerce website.
 
+**Table of Contents**
+- [Structure](#structure)
+- [Blocks](#blocks)
+- [Simple Pages](#simple-pages)
+- [Commerce Pages (Customer)](#commerce-pages-customer)
+- [Commerce Pages (Admin)](#commerce-pages-admin)
+- [Emails](#emails)
+- [Search](#search)
+- [Other](#other)
+
+---
+
 ## Structure
 
 - **Product Display** (node)
@@ -9,6 +21,7 @@ A simple guide, tips and resources to help you create a (Drupal 9.x) e-commerce 
   - Taxonomies (brand, category, display taxonomy, season etc)
   - Translations
   - Images
+  - Share on social networks buttons
   - Metatag (schema.org)
   - Product reviews
  
@@ -75,6 +88,7 @@ A simple guide, tips and resources to help you create a (Drupal 9.x) e-commerce 
 - Dynamic: Editor picks Products
 - Dynamic: Promoted Products
 - Dynamic: Related Products (by reference or search query)
+- Dynamic: Recently viewed Products
 
 ---
 
@@ -112,7 +126,9 @@ A simple guide, tips and resources to help you create a (Drupal 9.x) e-commerce 
 
 ---
 
-## Emails - SMS
+## Emails
+Emails as also as SMS and Mobile App messages (eg WhatsApp)
+
 - New Order created (Customer)
 - New Order created (Admin)
 - Order sent with courier with tracking info (Customer)
@@ -160,6 +176,14 @@ A simple guide, tips and resources to help you create a (Drupal 9.x) e-commerce 
 - Online Invoices
 - Skroutz API status and xml
 - Translations
+- Currencies
 - CRM/Logistics external integration (2 way sync)
 - CDN and fast hosting
-- Login with social profile (Google, FB etc)
+- Login with social profile (Google, FB, Apple etc)
+- Instant messaging and support widget
+- Chatbot
+
+---
+
+## Drupal Modules
+Interesting Drupal modules for e-commerce websites
