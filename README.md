@@ -159,39 +159,39 @@ Emails as also as SMS and Mobile App messages (eg WhatsApp)
 ---
 
 ## Other
-- Product: path aliases
-- Product: metatags
-- Product: tell a friend
-- Product: Customer reviews or comments
+- Product
+  - path aliases
+  - metatags
+  - tell a friend
+  - Customer reviews or comments
+  
+- Customer
+  - Favorite Products
+  - Login with social profile (Google, FB, Apple etc)
+  - Wholesame customers
 
+- Order
+  - (google) analytics for commerce orders
+  - SMS on complete payment transaction (for e-payments)
+  - Abandoned Cart Reminder
+  - Repeat an Order
+  - Online Invoices
 
-- Customer: Favorite Products
-- Customer: Login with social profile (Google, FB, Apple etc)
-- Customer: Wholesame customers
+- Store
+  - Currencies
+  - Customer reviews
+  - Skroutz API status and xml
+  - Export data (orders, customers, income etc)
+  - CRM, Logistics external integration (2 way sync)
+  - Integration with 3rd party services (marketing, newsletters, user tracking, analytics, payments, shipping etc)
 
-
-- Order: (google) analytics for commerce orders
-- Order: SMS on complete payment transaction (for e-payments)
-- Order: Abandoned Cart Reminder
-- Order: Repeat an Order
-- Order: Online Invoices
-
-
-- Store: Currencies
-- Store: Customer reviews
-- Store: Skroutz API status and xml
-- Store: Export data (orders, customers, income etc)
-- Store: CRM, Logistics external integration (2 way sync)
-- Store: Integration with 3rd party services (marketing, newsletters, user tracking, analytics, payments, shipping etc)
-
-
-- Website: Translations
-- Website: SSL
-- Website: sitemap.xml
-- Website: gdpr cookies banner
-- Website: cron setup for search index and sitemap
-- Website: CDN and fast hosting
-
+- Website
+  - Translations
+  - SSL
+  - sitemap.xml
+  - gdpr cookies banner
+  - cron setup for search index and sitemap
+  - CDN and fast hosting
 
 ---
 
