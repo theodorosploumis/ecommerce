@@ -24,6 +24,7 @@ A simple guide, tips and resources to help you create a (Drupal 9.x) e-commerce 
   - Share on social networks buttons
   - Metatag (schema.org)
   - Product reviews
+  - Add to favorites
  
 - **Product Variation**
   - Price
@@ -82,7 +83,9 @@ A simple guide, tips and resources to help you create a (Drupal 9.x) e-commerce 
 - Info about Secure transactions
 - Info about Store physical address
 - Contact info
-- Social profiles info and links
+- Newsletter subscribe form
+- Social profiles info and links (follow us)
+- Instant messaging and support widget (real user or chatbot)
 - Dynamic: Latest Products
 - Dynamic: Popular Products
 - Dynamic: Editor picks Products
@@ -138,7 +141,7 @@ Emails as also as SMS and Mobile App messages (eg WhatsApp)
 ---
 
 ## Search
-- External service (SOLR, Elastic, Algolia, core Views)
+- External service (SOLR, Elastic, Algolia) vs core Views
 - Autocomplete (ajax)
 - Suggestions for keywords
 - Suggestions for wrong (eg misspelling) input
@@ -156,32 +159,34 @@ Emails as also as SMS and Mobile App messages (eg WhatsApp)
 ---
 
 ## Other
-- SSL
-- sitemap.xml
-- metatags
-- (google) analytics for commerce orders
-- gdpr cookies banner
-- cron setup for search index and sitemap
 - Product: path aliases
+- Product: metatags
 - Product: tell a friend
-- dynamic product displays (eg taxonomy or search api view)
-- SMS on complete payment transaction (for e-payments)
-- Export data (orders, customers etc)
-- Integration with 3rd party services (marketing, newsletters, user tracking, analytics etc)
-- Customer reviews
-- Customer comments per Product
-- Wholesame customers
-- Repeat an Order
-- Favorite Products
-- Online Invoices
-- Skroutz API status and xml
-- Translations
-- Currencies
-- CRM/Logistics external integration (2 way sync)
-- CDN and fast hosting
-- Login with social profile (Google, FB, Apple etc)
-- Instant messaging and support widget
-- Chatbot
+- Product: Customer reviews or comments
+
+- Customer: Favorite Products
+- Customer: Login with social profile (Google, FB, Apple etc)
+- Customer: Wholesame customers
+
+- Order: (google) analytics for commerce orders
+- Order: SMS on complete payment transaction (for e-payments)
+- Order: Abandoned Cart Reminder
+- Order: Repeat an Order
+- Order: Online Invoices
+
+- Store: Currencies
+- Store: Customer reviews
+- Store: Skroutz API status and xml
+- Store: Export data (orders, customers, income etc)
+- Store: CRM, Logistics external integration (2 way sync)
+- Store: Integration with 3rd party services (marketing, newsletters, user tracking, analytics, payments, shipping etc)
+
+- Website: Translations
+- Website: SSL
+- Website: sitemap.xml
+- Website: gdpr cookies banner
+- Website: cron setup for search index and sitemap
+- Website: CDN and fast hosting
 
 ---
 
