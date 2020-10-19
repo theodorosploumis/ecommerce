@@ -164,15 +164,18 @@ Emails as also as SMS and Mobile App messages (eg WhatsApp)
 - Product: tell a friend
 - Product: Customer reviews or comments
 
+
 - Customer: Favorite Products
 - Customer: Login with social profile (Google, FB, Apple etc)
 - Customer: Wholesame customers
+
 
 - Order: (google) analytics for commerce orders
 - Order: SMS on complete payment transaction (for e-payments)
 - Order: Abandoned Cart Reminder
 - Order: Repeat an Order
 - Order: Online Invoices
+
 
 - Store: Currencies
 - Store: Customer reviews
@@ -181,12 +184,14 @@ Emails as also as SMS and Mobile App messages (eg WhatsApp)
 - Store: CRM, Logistics external integration (2 way sync)
 - Store: Integration with 3rd party services (marketing, newsletters, user tracking, analytics, payments, shipping etc)
 
+
 - Website: Translations
 - Website: SSL
 - Website: sitemap.xml
 - Website: gdpr cookies banner
 - Website: cron setup for search index and sitemap
 - Website: CDN and fast hosting
+
 
 ---
 
