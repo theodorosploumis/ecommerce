@@ -1,6 +1,7 @@
 # e-Commerce development
 
 A simple guide, tips and resources to help you create a (Drupal 9.x) e-commerce website.
+See also [User flows](flows.md).
 
 **Table of Contents**
 - [Structure](#structure)
@@ -175,6 +176,7 @@ Emails as also as SMS and Mobile App messages (eg WhatsApp)
   - SMS on complete payment transaction (for e-payments)
   - Abandoned Cart Reminder
   - Repeat an Order
+  - Create Order through url arguments
   - Online Invoices
 
 - Store
