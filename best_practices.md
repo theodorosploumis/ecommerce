@@ -1,6 +1,6 @@
 # e-Commerce Best Practices
 
-## eShop functionality
+## eShop Management (humans)
 - Reduce to zero the shipping costs
 - No hidden or unexpected costs annd fees
 - Fast shipping
@@ -16,4 +16,6 @@
 ## eShop website
 - Secure transactions and data manipulation
 - Focus on Product search and easy navigation
+- Eliminate the 404 errors for Products, Categories and Searches
+- Allow Users to save their searches by url path (take care of paging also)
 - System (CMS) testing process for new features or updates
