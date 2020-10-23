@@ -3,10 +3,11 @@
 A simple guide, tips and resources to help you create a (Drupal 9.x) e-commerce website.
 
 See also:
-- [User flows](flows.md)
-- [Best Practices](best_practices.md)
+
 - [Analytics](analytics.md)
+- [Best Practices](best_practices.md)
 - [Common issues](issues.md)
+- [User flows](flows.md)
 
 ---
 
