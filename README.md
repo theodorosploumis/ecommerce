@@ -7,6 +7,8 @@ See also:
 - [Best Practices](best_practices.md)
 - [Analytics](analytics.md)
 
+---
+
 **Table of Contents**
 - [Structure](#structure)
 - [Blocks](#blocks)
