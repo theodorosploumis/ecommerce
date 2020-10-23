@@ -1,4 +1,4 @@
-# eCommerce issues and problems
+# eCommerce common Issues, Problems and Challenges
 
 ## Most common Challenges
 1. Finding the right products to sell
