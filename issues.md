@@ -12,7 +12,7 @@
 9. Choosing the right technology & partners
 10. Attracting and hiring the right people to make it all happen
 
-[Source 1](https://ecommercetrainingacademy.com/ecommerce-business-challeges).
+[Source 1](https://ecommercetrainingacademy.com/ecommerce-business-challeges)
 
 ---
 
@@ -46,7 +46,7 @@
 - Credit Card was declined
 - Lack of Customer Support
 
-[Source 1](https://www.barilliance.com/10-reasons-shopping-cart-abandonment), [Source 2](https://www.barilliance.com/shopping-cart-abandonment-guide).
+[Source 1](https://www.barilliance.com/10-reasons-shopping-cart-abandonment), [Source 2](https://www.barilliance.com/shopping-cart-abandonment-guide)
 
 ---
 
