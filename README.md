@@ -1,8 +1,9 @@
-# e-Commerce development
+# e-Commerce Guide
 
-A simple guide, tips and resources to help you create a (Drupal 9.x) e-commerce website.
+A simple guide, tips and resources to help you create and manage an e-commerce website. 
+Since I am using [Drupal CMS](http://drupal.org) most of the development guides and steps refer to Drupal.
 
-See also:
+Additional guides:
 
 - [Analytics](analytics.md)
 - [Best Practices](best_practices.md)
