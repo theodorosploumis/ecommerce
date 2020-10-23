@@ -1,7 +1,11 @@
 # e-Commerce development
 
 A simple guide, tips and resources to help you create a (Drupal 9.x) e-commerce website.
-See also [User flows](flows.md).
+
+See also:
+- [User flows](flows.md)
+- [Best Practices](best_practices.md)
+- [Analytics](analytics.md)
 
 **Table of Contents**
 - [Structure](#structure)
