@@ -1,4 +1,4 @@
-# User Flows and Marketing automations
+# e-Commerce User Flows and Marketing automations
 
 ## User flows
 - Product Display > Add to Cart > Go to Cart/Checkout
