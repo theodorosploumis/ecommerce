@@ -6,6 +6,7 @@ See also:
 - [User flows](flows.md)
 - [Best Practices](best_practices.md)
 - [Analytics](analytics.md)
+- [Common issues](issues.md)
 
 ---
 
