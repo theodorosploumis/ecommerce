@@ -12,7 +12,7 @@
 9. Choosing the right technology & partners
 10. Attracting and hiring the right people to make it all happen
 
-Source [1](https://ecommercetrainingacademy.com/ecommerce-business-challeges).
+[Source 1](https://ecommercetrainingacademy.com/ecommerce-business-challeges).
 
 ---
 
@@ -28,7 +28,7 @@ Source [1](https://ecommercetrainingacademy.com/ecommerce-business-challeges).
 9. Competing against retailers and manufacturers
 10. A problem of data security
 
-Source [1](https://acquire.io/blog/problems-solutions-ecommerce-faces).
+[Source 1](https://acquire.io/blog/problems-solutions-ecommerce-faces)
 
 ---
 
@@ -46,7 +46,7 @@ Source [1](https://acquire.io/blog/problems-solutions-ecommerce-faces).
 - Credit Card was declined
 - Lack of Customer Support
 
-Sources [1](https://www.barilliance.com/10-reasons-shopping-cart-abandonment), [2](https://www.barilliance.com/shopping-cart-abandonment-guide).
+[Source 1](https://www.barilliance.com/10-reasons-shopping-cart-abandonment), [Source 2](https://www.barilliance.com/shopping-cart-abandonment-guide).
 
 ---
 
@@ -63,7 +63,7 @@ Sources [1](https://www.barilliance.com/10-reasons-shopping-cart-abandonment), [
 - Not making content easily shareable on social media (especially on Pinterest, Instagram and Facebook)
 - Making it hard to contact you, the seller
 
-Source [1](https://www.cio.com/article/2601367/11-common-ecommerce-mistakes-and-how-to-fix-them.html)
+[Source 1](https://www.cio.com/article/2601367/11-common-ecommerce-mistakes-and-how-to-fix-them.html)
 
 
 
