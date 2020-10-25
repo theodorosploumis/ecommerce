@@ -8,6 +8,7 @@ Additional guides:
 - [Analytics](analytics.md)
 - [Best Practices](best_practices.md)
 - [Common issues](issues.md)
+- [Trends 2020](trends.md)
 - [User flows](flows.md)
 
 ---
