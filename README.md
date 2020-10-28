@@ -165,6 +165,7 @@ Emails as also as SMS and Mobile App messages (eg WhatsApp)
 - Facets: Taxonomy
 - Facets: Price
 - Facets: Attributes
+- Disallow empty results (consequence filtering)
 - Voice search input
 
 ---
