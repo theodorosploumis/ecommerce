@@ -158,15 +158,19 @@ Emails as also as SMS and Mobile App messages (eg WhatsApp)
 - Suggestions for wrong (eg misspelling) input
 - No results message
 - Search API: stemmer
+- Search API: stopwords
+- Search API: ignore case/characters
 - Search API: partial search (tokenizer)
 - Search API: greeklish
 - Search API: smallcase
-- Search API: weight by tag
+- Search API: Boost by tag (HTML filter)
 - Facets: Taxonomy
 - Facets: Price
 - Facets: Attributes
 - Disallow empty results (consequence filtering)
 - Voice search input
+
+[Article 1](https://www.easternstandard.com/node/1049)
 
 ---
 
