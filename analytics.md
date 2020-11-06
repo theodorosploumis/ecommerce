@@ -40,3 +40,26 @@ Mainly for Google Analytics (using Google Tag Manager).
 - Revenue/Visit number
 - Time to complete an Order
 - Count of (same) User visits to complete an Order
+
+## KPI
+1. Website traffic
+2. Referral Traffic
+3. Conversion Rate
+4. Bounce Rate
+5. Time to Purchase
+6. Repeat Visits
+7. Cart Abandon Rate
+8. Cost Per Conversion
+9. Average order value
+10. Revenue on advertising spend
+11. Customer lifetime value
+12. List growth rate
+13. Chat sessions
+14. Product reviews
+15. Net promoter score
+16. Churn rate
+17. Product affinity
+18. Cost of goods sold
+
+[Source 1](https://www.webfx.com/industries/retail-ecommerce/ecommerce/kpis-for-ecommerce.html)
+
