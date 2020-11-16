@@ -102,7 +102,7 @@ Additional guides:
 - Dynamic: Editor picks Products
 - Dynamic: Promoted Products
 - Dynamic: Related Products (by reference or search query)
-- Dynamic: Recently viewed Products
+- Dynamic: Recently viewed Products (Last seen)
 
 ---
 
@@ -137,7 +137,7 @@ Additional guides:
 - Product Varations
 - Customer profiles
 - Discounts/Promotions
-- Coupons, Gift cards, Loyality points
+- Coupons, Gift cards, Loyality points etc
 
 ---
 
@@ -148,6 +148,7 @@ Emails as also as SMS and Mobile App messages (eg WhatsApp)
 - New Order created (Admin)
 - Order sent with courier with tracking info (Customer)
 - Order canceled (Customer)
+- Order abandoned (Customer)
 - Product Variation is out of stock (Admin)
 
 ---
