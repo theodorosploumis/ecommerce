@@ -27,7 +27,7 @@ Additional guides:
 
 ## Structure
 
-- **Product Display** (node)
+- **Product Display** (entity or node for 7.x)
   - Text Fields
   - Taxonomies (brand, category, display taxonomy, season etc)
   - Translations
@@ -37,7 +37,7 @@ Additional guides:
   - Product reviews
   - Add to favorites
  
-- **Product Variation**
+- **Product Variation** (entity)
   - Price
   - List price
   - Shippable/Non-shippable
