@@ -14,4 +14,4 @@ Since I am using [Drupal CMS](http://drupal.org) most of the development guides 
 
 
 ## Copyright
-[GPL V2](LICENCE)
+[GPL V2](LICENSE)
