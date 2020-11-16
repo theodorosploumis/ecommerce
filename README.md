@@ -121,6 +121,7 @@ Additional guides:
 ## Commerce Pages (Customer)
 - Checkout pages (with steps)
 - My Order(s)
+- My favorite Products
 - My Account
 - My Addresses (Billing, Shipping)
 - Return a Product form (or pdf application)
