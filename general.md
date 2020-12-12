@@ -159,7 +159,7 @@ Emails as also as SMS and Mobile App messages (eg WhatsApp)
 - Disallow empty results (consequence filtering)
 - Voice search input
 
-[Article 1](https://www.easternstandard.com/node/1049)
+[Article 1](https://www.easternstandard.com/node/1049), [Article 2](https://www.axelerant.com/resources/team-blog/test-scenarios-search-functionality-drupal)
 
 ---
 
