@@ -19,3 +19,20 @@
 - Eliminate the 404 errors for Products, Categories and Searches
 - Allow Users to save their searches by url path (take care of paging also)
 - System (CMS) testing process for new features or updates
+
+## Usability tips
+- Use emails instead of usernames
+- Use nice and meaningfull breadcrumbs
+- Make contact information visible
+- Make search visible
+- Provide filters and fields on the search
+- Show recommended and related products
+- Show detailed fees on the Cart
+- Show a confirmation page
+- Show clear Call to Actions
+- Show security badges
+- Break up the order process
+- Make Cart visible
+- Make Content visible
+- Use information on each Order to increase credibility
+
