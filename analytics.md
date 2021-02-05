@@ -61,5 +61,7 @@ Mainly for Google Analytics (using Google Tag Manager).
 17. Product affinity
 18. Cost of goods sold
 
-[Source 1](https://www.webfx.com/industries/retail-ecommerce/ecommerce/kpis-for-ecommerce.html)
-
+## Sources
+- https://www.webfx.com/industries/retail-ecommerce/ecommerce/kpis-for-ecommerce.html
+- https://developers.google.com/analytics/devguides/collection/analyticsjs/ecommerce
+- https://developers.google.com/tag-manager/enhanced-ecommerce
