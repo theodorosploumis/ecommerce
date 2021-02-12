@@ -14,7 +14,7 @@
 - Provide an easy way to get contacted (phone, email etc)
 
 ## eShop website
-- Secure transactions and data manipulation
+- Secure transactions and data manipulation (check https://pcisecuritystandards.org)
 - Focus on Product search and easy navigation
 - Eliminate the 404 errors for Products, Categories and Searches
 - Allow Users to save their searches by url path (take care of paging also)
