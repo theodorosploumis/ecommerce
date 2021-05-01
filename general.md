@@ -141,7 +141,7 @@ Emails as also as SMS and Mobile App messages (eg WhatsApp)
 ---
 
 ## Search
-- External service (SOLR, Elastic, Algolia) vs core Views
+- External service (SOLR, Elastic, Algolia, Sajari) vs core Views
 - Autocomplete (ajax)
 - Suggestions for keywords
 - Suggestions for wrong (eg misspelling) input
